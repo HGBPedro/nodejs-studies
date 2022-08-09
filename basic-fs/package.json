@@ -1,0 +1,17 @@
+{
+  "name": "basic-fs",
+  "version": "1.0.0",
+  "description": "Training basic functions in node's fs",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tscinit": "tsc --init"
+  },
+  "author": "Pedro H G Bonel",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.6.4",
+    "typescript": "^4.7.4"
+  }
+}
